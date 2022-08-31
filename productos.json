@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "title":"Escuadra",
+        "price": 123
+    },
+    {
+        "id":2,
+        "title":"Calculadora",
+        "price": 1642
+    },
+    {
+        "id":3,
+        "title":"Tijera",
+        "price": 25
+    }
+]
